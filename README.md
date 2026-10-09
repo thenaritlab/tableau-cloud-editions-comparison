@@ -11,6 +11,13 @@
 > **อัปเดตล่าสุด: 9 ตุลาคม 2026** ข้อมูลและตัวเลขทั้งหมดมาจากหน้าเว็บทางการของ **Tableau** และ **Salesforce** โดยมีลิงก์อ้างอิงกำกับไว้ใต้แต่ละหัวข้อ
 > ข้อมูลอาจเปลี่ยนแปลงได้ ควรตรวจสอบกับแหล่งอ้างอิงล่าสุดก่อนใช้งาน
 
+> [!NOTE]
+> **⚖️ ข้อจำกัดความรับผิดชอบ (Disclaimer)**
+>
+> เอกสารนี้จัดทำขึ้นจากการรวบรวมข้อมูลโดยส่วนตัวของผู้เขียน เพื่อวัตถุประสงค์ในการแบ่งปันความรู้เท่านั้น มิใช่เอกสารทางการของเจ้าของผลิตภัณฑ์ และไม่สามารถใช้เป็นเอกสารอ้างอิงทางการค้าได้ หากต้องการนำข้อมูลไปใช้อ้างอิง กรุณาตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ทางการของเจ้าของผลิตภัณฑ์อีกครั้ง
+>
+> *This document is a personal compilation intended for knowledge-sharing purposes only. It is not official documentation from the product owner and shall not be used as a commercial reference. Please verify all information against the product owner's official website before use.*
+
 ---
 
 ## 🧭 สารบัญ
@@ -310,5 +317,12 @@ A: ไม่มี ยกเว้นฟีเจอร์ AI บางตัว
 ---
 
 [⬆️ กลับไปด้านบน](#️-เปรียบเทียบ-tableau-cloud-editions)
+
+> [!NOTE]
+> **⚖️ ข้อจำกัดความรับผิดชอบ (Disclaimer)**
+>
+> เอกสารนี้จัดทำขึ้นจากการรวบรวมข้อมูลโดยส่วนตัวของผู้เขียน เพื่อวัตถุประสงค์ในการแบ่งปันความรู้เท่านั้น มิใช่เอกสารทางการของเจ้าของผลิตภัณฑ์ และไม่สามารถใช้เป็นเอกสารอ้างอิงทางการค้าได้ หากต้องการนำข้อมูลไปใช้อ้างอิง กรุณาตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ทางการของเจ้าของผลิตภัณฑ์อีกครั้ง
+>
+> *This document is a personal compilation intended for knowledge-sharing purposes only. It is not official documentation from the product owner and shall not be used as a commercial reference. Please verify all information against the product owner's official website before use.*
 
 **Created by The Narit Lab**
